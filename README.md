@@ -1,5 +1,7 @@
 # makroFingerBPJS_MLITE
+Build app PY menggunakan lib auto-py-to-exe<br>
 makro finger app bpjs menggunakan MLITE
+link Mlite : https://github.com/basoro/mlite
 <br>
 <br>
 konfigurasi host simrs di host_config.txt line 1<br>
