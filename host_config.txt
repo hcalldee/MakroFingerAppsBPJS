@@ -1,0 +1,2 @@
+http://localhost/khanza-lite-master
+10
